@@ -11,7 +11,7 @@ class Bot(Client):
             name="simple-renamer",
             api_id=API_ID,
             api_hash=API_HASH,
-            bot_token=BOT_TOKEN,
+            bot_token=7837147561:AAH9kq-BbchPsk_8fEDVl00RamAyqsF3-HU,
             workers=100,
             plugins={"root": "main"},
             sleep_threshold=10,
