@@ -9,8 +9,8 @@ class Bot(Client):
     def __init__(self):
         super().__init__(
             name="simple-renamer",
-            api_id=API_ID,
-            api_hash=API_HASH,
+            api_id=26162072,
+            api_hash=ba25181c01b50d945748801b6c8b6ecc,
             bot_token=7837147561:AAH9kq-BbchPsk_8fEDVl00RamAyqsF3-HU,
             workers=100,
             plugins={"root": "main"},
